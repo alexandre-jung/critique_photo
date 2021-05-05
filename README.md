@@ -2,7 +2,13 @@
 
 ## Démarrage
 
+### Base de données MySQL
+
 Importer le dump MySQL *etc/critique_photo.sql* dans une base de données créée préalablement.
+
+Editer *var/config.php* pour configurer la connexion à la base de données.
+
+### Utilisation du site
 
 Un administrateur a déjà été créé:
 
